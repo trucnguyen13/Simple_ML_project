@@ -1,0 +1,30 @@
+VARIABLE DESCRIPTIONS:
+SKU               Mã sản phẩm
+Title            Thông tin sản phẩm
+Brand            Thương hiệu laptop
+Warranty          Tháng bảo hành
+Color            Màu sắc
+SeriesLaptop     Dòng laptop
+PartNum          Số phần là một định danh của một thiết kế phần cụ thể
+CPUgen           Thế hệ CPU
+CPU              CPU
+GraphicChip      Chip đồ họa
+RAM              RAM
+Screen           Màn hình
+Storage          Lưu trữ
+MaxStoPortNum    Số cổng lưu trữ tối đa
+SupportM2        Kiểu khe M.2 hỗ trợ
+OutVideoPort     Cổng xuất hình
+ConnectPort      Cổng kết nối
+Wireless         object
+Keyboard         object
+OS               object
+Size             object
+Pin              object
+Weight           object
+LED              object
+Accessories      object
+Security         object
+OptDrive         object
+Feature          object
+dtype: object
