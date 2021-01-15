@@ -3,7 +3,6 @@
 - MSSV: 18120621 - Nguyễn Đức Trực
 - MSSV: 18120625 - Nguyễn Trần Trung.
 
-# Data Science Project
 Đồ án cuối kỳ nhập môn Khoa học Dữ liệu
 
 
@@ -19,5 +18,5 @@ Sử dụng các mô hình máy học để dự đoán giá cả laptop trên t
 ### Thực hiện
 
 Trang web khá phù hợp để thu thập dữ liệu
-'https://phongvu.vn/'
+https://phongvu.vn/
 
