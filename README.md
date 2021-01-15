@@ -1,7 +1,7 @@
 # Simple_ML_project.
 - STT: 26
-- MSSV: 18120621 - Nguyễn Đức Trực
-- MSSV: 18120625 - Nguyễn Trần Trung.
+- MSSV: 18120621 - Nguyễn Đức Trực - trucnguyen13
+- MSSV: 18120625 - Nguyễn Trần Trung - Trung-Rei
 
 Đồ án cuối kỳ nhập môn Khoa học Dữ liệu
 
